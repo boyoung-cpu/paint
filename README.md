@@ -1,2 +1,12 @@
-# paint
-paint program which support various function
+# 프로젝트 소개
+다양한 기능을 제공하는 그림판이다. 
+
+# 실행법
+다운로드 받은 후 MyDrawing.java 컴파일 후 실행
+
+  
+# 참고사항
+기능 충돌로 인한 소소한 버그가 있다.
+- line은 move가 되지 않는다.
+- erase를 하고 도형을 move하면 erase 자국은 제자리에 남아있고 도형만 움직인다. 
+
