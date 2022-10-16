@@ -2,8 +2,9 @@
 # 프로젝트 소개
 다양한 기능을 제공하는 그림판이다. 
 
-# 실행법
-다운로드 받은 후 MyDrawing.java 실행
+# How to run
+Download and \n
+Run MyDrawing.java
 
   
 # 참고사항
