@@ -1,15 +1,20 @@
 [2020.8.3]
 # Introduction
-다양한 기능을 제공하는 그림판이다.
-It implement paint. 
-It has line drawing, 
+- implementation of paint. 
+- Pen (brush)
+- Erazer
+- Line drawing 
+- Circle, rectangle drawing
+- Fill color 
+- Move figure
+- Save, Exit
 
 # How to run
 fetch the code and Run MyDrawing.java
 
   
-# 참고사항
-기능 충돌로 인한 소소한 버그가 있다.
-- line은 move가 되지 않는다.
-- erase를 하고 도형을 move하면 erase 자국은 제자리에 남아있고 도형만 움직인다.  
+# Bug
+There is a small bug caused by a functional collision.
+- Line can't be moved.
+- If you erase and move the shape, the erase mark remains in place and only the shape moves.
 
