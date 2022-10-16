@@ -2,7 +2,7 @@
 # Introduction
 - implementation of paint. 
 - Pen (brush)
-- Erazer
+- Eraser
 - Line drawing 
 - Circle, rectangle drawing
 - Fill color 
