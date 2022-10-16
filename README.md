@@ -1,10 +1,11 @@
 [2020.8.3]
-# 프로젝트 소개
-다양한 기능을 제공하는 그림판이다. 
+# Introduction
+다양한 기능을 제공하는 그림판이다.
+It implement paint. 
+It has line drawing, 
 
 # How to run
-Download and \n
-Run MyDrawing.java
+fetch the code and Run MyDrawing.java
 
   
 # 참고사항
